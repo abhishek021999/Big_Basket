@@ -120,25 +120,6 @@ big-basket/
 - CORS configuration
 - Secure payment processing
 
-## 🚀 Deployment
-
-The frontend is deployed on Vercel, and the backend is configured for deployment on a Node.js hosting platform.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
